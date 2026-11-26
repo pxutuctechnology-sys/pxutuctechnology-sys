@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hola mi nombre es Peter Xutuc
+Soy profesor de Matematicas y programacion
 
 <!--
 **pxutuctechnology-sys/pxutuctechnology-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
